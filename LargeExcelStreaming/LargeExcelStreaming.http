@@ -1,0 +1,6 @@
+@LargeExcelStreaming_HostAddress = http://localhost:5118
+
+GET {{LargeExcelStreaming_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
